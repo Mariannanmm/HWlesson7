@@ -17,7 +17,7 @@
 <suite name="Regression suite">
     <test name="First tests">
         <packages>
-            <package name="lesson7.ProductTest"/>
+            <package name="lesson7"/>
         </packages>
     </test>
 </suite>
